@@ -102,7 +102,7 @@ Ignihyde：伊格尼海德
 Diasomnia：迪亚索尼亚
 Royal Sword Academy：王剑学园
 Night Raven College：夜鸦学院
-Ramshackle Dorm：小破寮
+Ramshackle dorm：小破寮
 Mostro Lounge：海怪酒廊
 Queendom of Roses：蔷薇王国
 Shaftlands：辉石之国
