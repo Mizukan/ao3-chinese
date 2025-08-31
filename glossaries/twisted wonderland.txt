@@ -1,5 +1,5 @@
 维护者：minasami
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2025.08.29
 
 词条
@@ -116,18 +116,25 @@ Twisted Wonderland：扭曲仙境
 
 //术语
 Blot：浊墨
+blot：浊墨
 Overblot：浊墨溢出
+overblot：浊墨溢出
 magicians：魔法士
 Magical Shift：魔法竞技
+magical shift：魔法竞技
 magift：魔技
 spelldrive：魔法竞技
 dorm：寮
 dorm head：寮长
+Dorm：寮
+Dorm Head：寮长
 MagiCam：魔讯
+magicam：魔讯
 prefect：监督生
 Prefect：监督生
 signature spell：个性魔法
 Unique Magic：个性魔法
+unigue magic：个性魔法
 
 //个性魔法
 Off with Your Head：砍掉你的头
